@@ -1,4 +1,4 @@
-Sphinx==1.4.1
+Sphinx==3.3.0
 sphinx-rtd-theme
 sphinx-autobuild
 git+git://github.com/danroth27/yasfb-py3
