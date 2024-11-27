@@ -3,3 +3,4 @@ sphinx-rtd-theme
 sphinx-autobuild
 git+git://github.com/danroth27/yasfb-py3
 git+git://github.com/rtfd/sphinxcontrib-dotnetdomain
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
